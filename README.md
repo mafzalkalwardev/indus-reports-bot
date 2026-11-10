@@ -1,10 +1,7 @@
-# indus-reports-bot
+# @indus/reports-bot
 
-This bot comes from the [INDUS Ops](https://github.com/mafzalkalwardev/indus-ops) monorepo. It depends on [indus-bot-core](https://github.com/mafzalkalwardev/indus-bot-core).
+Daily digest across the fleet.
 
-Install and deploy are done from the monorepo:
+This bot comes from the [INDUS Ops](https://github.com/mafzalkalwardev/indus-ops) monorepo and depends on [indus-bot-core](https://github.com/mafzalkalwardev/indus-bot-core).
 
-```bash
-npm install
-deploy/install-vps.sh
-```
+Install and deploy are done from the monorepo.
